@@ -1,5 +1,5 @@
 # Cypress
-In this repository, you will find my Cypress projects and tests
+# In this repository, you will find my Cypress projects and tests
 
 Main things about Cypress:
 1. Cypress can test anything that runs on a web browser
