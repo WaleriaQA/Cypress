@@ -1,0 +1,10 @@
+///<reference types="cypress"/>
+
+it('google test', function(){
+
+    cy.visit('https://google.mk')
+    cy.get('.a4bIc').type('The Lykoi cat{enter}')
+
+    cy.contains('Видеоклипове').click()
+    //cy.get('[href="https://en.wikipedia.org/wiki/Lykoi"] > .TbwUpd > :nth-child(2) > .VuuXrf').click()
+})
