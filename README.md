@@ -10,6 +10,6 @@
 <strong>Cypress important commands</strong>:
 1. <strong>npm init -y</strong> create a file called package.json in a project. This is dependency management file.
 
-2. npm install cypress install the latest Cypress version.
+2. <strong>npm install cypress</strong> install the latest Cypress version.
    
 3. npm install cypress@12.0 install a particular Cypress version.
