@@ -8,10 +8,12 @@
 4. Cross-browser testing locally or remotely (CI/CD)
 
 <strong>Cypress important commands</strong>:
-1. <strong>npm init -y</strong> create a file called package.json in a project. This is dependency management file.
+1. <strong>npm init -y</strong> create a file called package.json in a project. This is a dependency management file.
 
 2. <strong>npm install cypress</strong> install the latest Cypress version.
    
 3. <strong>npm install cypress@12.0</strong> install a particular Cypress version.
 
-4. <strong>npx cypress -v</strong> to check Cypress version
+4. <strong>npx cypress -v or npx cypress -version</strong> to check Cypress version
+
+5. 
