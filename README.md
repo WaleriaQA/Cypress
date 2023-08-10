@@ -13,3 +13,5 @@
 2. <strong>npm install cypress</strong> install the latest Cypress version.
    
 3. <strong>npm install cypress@12.0</strong> install a particular Cypress version.
+
+4. <strong>npx cypress -v</strong> to check Cypress version
