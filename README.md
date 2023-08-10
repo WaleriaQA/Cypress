@@ -17,3 +17,4 @@
 4. <strong>npx cypress -v or npx cypress --version</strong> to check Cypress version
 
 5. <strong>npx cypress open</strong> open Cypress
+   
