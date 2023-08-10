@@ -3,5 +3,6 @@
 it('google test', function(){
 
     cy.visit('https://google.mk')
-    cy.get('.a4bIc').type('The Lykoi cat{enter}')
+    cy.get('.a4bIc')
+       .type('The Lykoi cat{enter}')
 })
