@@ -1,0 +1,10 @@
+it.only('login test', function(){ // it.only will run this particular script, .find() is used to find a descendent element
+
+    cy.visit('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+    cy.get('.oxd-button').click()
+    cy.get(':nth-child(1) > .oxd-main-menu-item').click()
+    cy.get('.--visited > .oxd-topbar-body-nav-tab-item').click()
+    cy.get('.oxd-dropdown-menu > li').click()
+    cy.get('.orangehrm-header-container > .oxd-button').click()
+    cy.get('.oxd-form-actions').find('.oxd-button').last().click()
+})
