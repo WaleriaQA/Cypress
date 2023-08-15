@@ -18,3 +18,4 @@
 
 5. <strong>npx cypress open</strong> open Cypress
    
+6. <strong>./node_modules/.bin/cypress open</strong> open Cypress using bash
