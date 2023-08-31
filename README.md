@@ -12,10 +12,11 @@
 
 2. <strong>npm install cypress</strong> install the latest Cypress version.
    
-3. <strong>npm install cypress@12.0</strong> install a particular Cypress version.
+3. <strong>npm install cypress@12.0</strong> install a particular Cypress version or
+   <strong>npm install --save-dev cypress@12.0</strong> 
 
-4. <strong>npx cypress -v or npx cypress --version</strong> to check Cypress version
+5. <strong>npx cypress -v or npx cypress --version</strong> to check Cypress version
 
-5. <strong>npx cypress open</strong> open Cypress
+6. <strong>npx cypress open</strong> open Cypress
    
-6. <strong>./node_modules/.bin/cypress open</strong> open Cypress using bash
+7. <strong>./node_modules/.bin/cypress open</strong> open Cypress using bash
