@@ -17,6 +17,6 @@
 
 5. <strong>npx cypress -v or npx cypress --version</strong> to check Cypress version
 
-6. <strong>npx cypress open</strong> open Cypress
+6. <strong>npx cypress open</strong> open Cypress or <strong>./node_modules/.bin/cypress open</strong>
    
 7. <strong>./node_modules/.bin/cypress open</strong> open Cypress using bash
