@@ -21,4 +21,6 @@
    
 7. <strong>./node_modules/.bin/cypress open</strong> open Cypress using bash
 
-8. <strong>./node_modules/.bin/cypress run</strong> open all the test in the terminal using bash
+8. <strong>./node_modules/.bin/cypress run</strong> open all the tests in the terminal in headless mode (we don't see the browser) using bash
+
+9. 8. <strong>./node_modules/.bin/cypress run --headed</strong> open all the tests in the terminal in non-headless mode (we see the browser, Electron by default) using bash 
